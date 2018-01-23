@@ -1,7 +1,7 @@
 # Unity Scripts
 
-Scripts produced while learning about game development with Unity.
+Scripts produced while learning about game development.
 
 ### Number Wizard
 
-A very simple console number guessing game utilizing binary search.
+A very simple console number guessing game using binary search.
